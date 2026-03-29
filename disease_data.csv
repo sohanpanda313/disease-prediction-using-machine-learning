@@ -1,0 +1,11 @@
+fever,cough,headache,fatigue,nausea,vomiting,body_pain,rash,runny_nose,disease
+1,1,1,1,0,0,1,0,0,Flu
+1,1,0,1,0,0,0,0,1,Common Cold
+0,1,1,0,0,0,0,0,1,Allergy
+1,0,1,1,1,1,1,1,0,Dengue
+0,0,1,1,1,0,0,0,0,Migraine
+1,0,0,1,1,1,1,1,0,Malaria
+0,1,0,0,0,0,0,0,1,Sinusitis
+1,1,1,1,1,0,1,0,0,COVID-19
+0,0,1,0,1,0,0,0,0,Food Poisoning
+1,0,0,1,0,1,1,1,0,Typhoid
